@@ -13,6 +13,7 @@ import java.util.concurrent.Future;
 
 /**
  * @author Lynn.Hsu <handohand@vip.qq.com> 2016年8月26日
+ * chenyawei
  *
  */
 public class TaskWithResult implements Callable<String> {
